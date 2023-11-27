@@ -19,6 +19,6 @@ jobs:
         with:
           ruby-version: '3.2.2'
 
-      - run: ./script/fetch-good-read.rb
+      - run: cd script && fetch-good-read.rb && cd ..
       - run: cd website && bundle install && bundle exec jekyll build && cd ..
       - run: ./script/push-to-gh-pages.sh ${{ secrets.commit_secret }}
