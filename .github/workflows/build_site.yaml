@@ -10,9 +10,9 @@ on:
 jobs:
   build:
     name: Build Site
-  env:
-    my_secret: ${{ secrets.commit_secret }}
-  runs-on: ubuntu-latest
+    env:
+      my_secret: ${{secrets.commit_secret}}
+    runs-on: ubuntu-latest
   steps:
     - uses: actions/checkout@v4
     - uses: ruby/setup-ruby@v1
