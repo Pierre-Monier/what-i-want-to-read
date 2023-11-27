@@ -4,5 +4,6 @@
 title: Qu'est ce que Pierre veut lire ?
 description: >- # this means to ignore newlines until "baseurl:"
   Tu te demamandes ce que Pierre veut lire ? Tu es au bon endroit !
+baseUrl: /what-i-want-to-read
 layout: main
 ---
