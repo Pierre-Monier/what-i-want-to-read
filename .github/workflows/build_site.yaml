@@ -21,4 +21,11 @@ jobs:
 
       - run: cd script && ./fetch-good-read.rb && cd ..
       - run: cd website && bundle install && bundle exec jekyll build && cd ..
-      - run: ./script/push-to-gh-pages.sh ${{ secrets.commit_secret }}
+      - run: |
+          # setup the username and email. I tend to use 'GitHub Actions Bot' with no email by default
+          git config user.name "GitHub Actions Bot"
+          git config user.email "<>"
+          cp -r website/_site/* docs/
+          git add --all
+          git commit -m "update"
+          git push origin master
