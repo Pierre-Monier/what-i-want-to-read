@@ -1,1 +1,137 @@
-[{"name":"Dieu et l'Etat","author":"Mikhail Bakunin"},{"name":"L'Éthique","author":"Baruch Spinoza"},{"name":"Design Patterns: Elements of Reusable Object-Oriented Software","author":"Erich Gamma"},{"name":"The Phenomenon of Man","author":"Pierre Teilhard de Chardin"},{"name":"The Need for Roots: Prelude to a Declaration of Duties towards Mankind","author":"Simone Weil"},{"name":"The Organized Mind: Thinking Straight in the Age of Information Overload","author":"Daniel J. Levitin"},{"name":"Zima Blue and Other Stories","author":"Alastair Reynolds"},{"name":"Le Prince de Machiavel: édition originale (French Edition)","author":"Niccolò Machiavelli"},{"name":"Sapiens: A Brief History of Humankind","author":"Yuval Noah Harari"},{"name":"Game Engine Architecture","author":"Jason Gregory"},{"name":"Your Brain at Work: Strategies for Overcoming Distraction, Regaining Focus, and Working Smarter All Day Long","author":"David Rock"},{"name":"Team Geek: A Software Developer's Guide to Working Well with Others","author":"Brian W. Fitzpatrick"},{"name":"Software Estimation: Demystifying the Black Art","author":"Steve McConnell"},{"name":"Thinking In Systems: A Primer","author":"Donella H. Meadows"},{"name":"Extreme Programming Explained: Embrace Change (The XP Series)","author":"Kent Beck"},{"name":"Stop Thinking Like a Freelancer: The Evolution of a $1M Web Designer","author":"Liam Veitch"},{"name":"CONTINUOUS DELIVERY","author":"Jez Humble"},{"name":"A Philosophy of Software Design","author":"John Ousterhout"},{"name":"Agile Software Development, Principles, Patterns, and Practices","author":"Robert C. Martin"},{"name":"Peopleware: Productive Projects and Teams","author":"Tom DeMarco"},{"name":"Soft Skills: The Software Developer's Life Manual","author":"John Z. Sonmez"},{"name":"Working Effectively with Legacy Code","author":"Michael C. Feathers"},{"name":"Refactoring: Improving the Design of Existing Code","author":"Martin Fowler"},{"name":"Lisp in Small Pieces","author":"Christian Queinnec"},{"name":"Operating System Design: The Xinu Approach","author":"Douglas E. Comer"},{"name":"Calculus","author":"Michael Spivak"},{"name":"Euclid's Elements","author":"Euclid"}]
+[
+  {
+    "name": "Dieu et l'Etat",
+    "image": "      <a href=\"https://www.goodreads.com/book/show/1809497.Dieu_et_l_Etat?utm_medium=api&amp;utm_source=rss\"><img alt=\"Dieu et l&#39;Etat\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1188653596l/1809497._SX50_.jpg\" /></a><br/>",
+    "author": "Mikhail Bakunin<br/>"
+  },
+  {
+    "name": "L'Éthique",
+    "image": "      <a href=\"https://www.goodreads.com/book/show/1849687.L_thique?utm_medium=api&amp;utm_source=rss\"><img alt=\"L&#39;Éthique\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1189181556l/1849687._SY75_.jpg\" /></a><br/>",
+    "author": "Baruch Spinoza<br/>"
+  },
+  {
+    "name": "Design Patterns: Elements of Reusable Object-Oriented Software",
+    "image": "      <a href=\"https://www.goodreads.com/book/show/85009.Design_Patterns?utm_medium=api&amp;utm_source=rss\"><img alt=\"Design Patterns: Elements of Reusable Object-Oriented Software\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348027904l/85009._SX50_.jpg\" /></a><br/>",
+    "author": "Erich Gamma<br/>"
+  },
+  {
+    "name": "The Phenomenon of Man",
+    "image": "      <a href=\"https://www.goodreads.com/book/show/232567.The_Phenomenon_of_Man?utm_medium=api&amp;utm_source=rss\"><img alt=\"The Phenomenon of Man\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1401994573l/232567._SY75_.jpg\" /></a><br/>",
+    "author": "Pierre Teilhard de Chardin<br/>"
+  },
+  {
+    "name": "The Need for Roots: Prelude to a Declaration of Duties towards Mankind",
+    "image": "      <a href=\"https://www.goodreads.com/book/show/141420.The_Need_for_Roots?utm_medium=api&amp;utm_source=rss\"><img alt=\"The Need for Roots: Prelude to a Declaration of Duties towards Mankind\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1396838594l/141420._SY75_.jpg\" /></a><br/>",
+    "author": "Simone Weil<br/>"
+  },
+  {
+    "name": "The Organized Mind: Thinking Straight in the Age of Information Overload",
+    "image": "      <a href=\"https://www.goodreads.com/book/show/18693669-the-organized-mind?utm_medium=api&amp;utm_source=rss\"><img alt=\"The Organized Mind: Thinking Straight in the Age of Information Overload\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382943888l/18693669._SX50_.jpg\" /></a><br/>",
+    "author": "Daniel J. Levitin<br/>"
+  },
+  {
+    "name": "Zima Blue and Other Stories",
+    "image": "      <a href=\"https://www.goodreads.com/book/show/860926.Zima_Blue_and_Other_Stories?utm_medium=api&amp;utm_source=rss\"><img alt=\"Zima Blue and Other Stories\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391343221l/860926._SX50_.jpg\" /></a><br/>",
+    "author": "Alastair Reynolds<br/>"
+  },
+  {
+    "name": "Le Prince de Machiavel: édition originale (French Edition)",
+    "image": "      <a href=\"https://www.goodreads.com/book/show/54411076-le-prince-de-machiavel?utm_medium=api&amp;utm_source=rss\"><img alt=\"Le Prince de Machiavel: édition originale (French Edition)\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1594016539l/54411076._SX50_.jpg\" /></a><br/>",
+    "author": "Niccolò Machiavelli<br/>"
+  },
+  {
+    "name": "Sapiens: A Brief History of Humankind",
+    "image": "      <a href=\"https://www.goodreads.com/book/show/23692271-sapiens?utm_medium=api&amp;utm_source=rss\"><img alt=\"Sapiens: A Brief History of Humankind\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1595674533l/23692271._SY75_.jpg\" /></a><br/>",
+    "author": "Yuval Noah Harari<br/>"
+  },
+  {
+    "name": "Game Engine Architecture",
+    "image": "      <a href=\"https://www.goodreads.com/book/show/6709076-game-engine-architecture?utm_medium=api&amp;utm_source=rss\"><img alt=\"Game Engine Architecture\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348115696l/6709076._SX50_.jpg\" /></a><br/>",
+    "author": "Jason Gregory<br/>"
+  },
+  {
+    "name": "Your Brain at Work: Strategies for Overcoming Distraction, Regaining Focus, and Working Smarter All Day Long",
+    "image": "      <a href=\"https://www.goodreads.com/book/show/6899290-your-brain-at-work?utm_medium=api&amp;utm_source=rss\"><img alt=\"Your Brain at Work: Strategies for Overcoming Distraction, Regaining Focus, and Working Smarter All Day Long\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347510809l/6899290._SX50_.jpg\" /></a><br/>",
+    "author": "David Rock<br/>"
+  },
+  {
+    "name": "Team Geek: A Software Developer's Guide to Working Well with Others",
+    "image": "      <a href=\"https://www.goodreads.com/book/show/14514115-team-geek?utm_medium=api&amp;utm_source=rss\"><img alt=\"Team Geek: A Software Developer&#39;s Guide to Working Well with Others\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1341845671l/14514115._SY75_.jpg\" /></a><br/>",
+    "author": "Brian W. Fitzpatrick<br/>"
+  },
+  {
+    "name": "Software Estimation: Demystifying the Black Art",
+    "image": "      <a href=\"https://www.goodreads.com/book/show/93891.Software_Estimation?utm_medium=api&amp;utm_source=rss\"><img alt=\"Software Estimation: Demystifying the Black Art\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1396830924l/93891._SX50_.jpg\" /></a><br/>",
+    "author": "Steve McConnell<br/>"
+  },
+  {
+    "name": "Thinking In Systems: A Primer",
+    "image": "      <a href=\"https://www.goodreads.com/book/show/3828902-thinking-in-systems?utm_medium=api&amp;utm_source=rss\"><img alt=\"Thinking In Systems: A Primer\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390169859l/3828902._SY75_.jpg\" /></a><br/>",
+    "author": "Donella H. Meadows<br/>"
+  },
+  {
+    "name": "Extreme Programming Explained: Embrace Change (The XP Series)",
+    "image": "      <a href=\"https://www.goodreads.com/book/show/67833.Extreme_Programming_Explained?utm_medium=api&amp;utm_source=rss\"><img alt=\"Extreme Programming Explained: Embrace Change (The XP Series)\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386925310l/67833._SX50_.jpg\" /></a><br/>",
+    "author": "Kent Beck<br/>"
+  },
+  {
+    "name": "Stop Thinking Like a Freelancer: The Evolution of a $1M Web Designer",
+    "image": "      <a href=\"https://www.goodreads.com/book/show/23592761-stop-thinking-like-a-freelancer?utm_medium=api&amp;utm_source=rss\"><img alt=\"Stop Thinking Like a Freelancer: The Evolution of a $1M Web Designer\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416678828l/23592761._SX50_.jpg\" /></a><br/>",
+    "author": "Liam Veitch<br/>"
+  },
+  {
+    "name": "CONTINUOUS DELIVERY",
+    "image": "      <a href=\"https://www.goodreads.com/book/show/8686650-continuous-delivery?utm_medium=api&amp;utm_source=rss\"><img alt=\"CONTINUOUS DELIVERY\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347640457l/8686650._SX50_.jpg\" /></a><br/>",
+    "author": "Jez Humble<br/>"
+  },
+  {
+    "name": "A Philosophy of Software Design",
+    "image": "      <a href=\"https://www.goodreads.com/book/show/39996759-a-philosophy-of-software-design?utm_medium=api&amp;utm_source=rss\"><img alt=\"A Philosophy of Software Design\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531857377l/39996759._SX50_.jpg\" /></a><br/>",
+    "author": "John Ousterhout<br/>"
+  },
+  {
+    "name": "Agile Software Development, Principles, Patterns, and Practices",
+    "image": "      <a href=\"https://www.goodreads.com/book/show/84985.Agile_Software_Development_Principles_Patterns_and_Practices?utm_medium=api&amp;utm_source=rss\"><img alt=\"Agile Software Development, Principles, Patterns, and Practices\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348196056l/84985._SX50_.jpg\" /></a><br/>",
+    "author": "Robert C. Martin<br/>"
+  },
+  {
+    "name": "Peopleware: Productive Projects and Teams",
+    "image": "      <a href=\"https://www.goodreads.com/book/show/67825.Peopleware?utm_medium=api&amp;utm_source=rss\"><img alt=\"Peopleware: Productive Projects and Teams\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386925395l/67825._SY75_.jpg\" /></a><br/>",
+    "author": "Tom DeMarco<br/>"
+  },
+  {
+    "name": "Soft Skills: The Software Developer's Life Manual",
+    "image": "      <a href=\"https://www.goodreads.com/book/show/23232941-soft-skills?utm_medium=api&amp;utm_source=rss\"><img alt=\"Soft Skills: The Software Developer&#39;s Life Manual\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419180921l/23232941._SX50_.jpg\" /></a><br/>",
+    "author": "John Z. Sonmez<br/>"
+  },
+  {
+    "name": "Working Effectively with Legacy Code",
+    "image": "      <a href=\"https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code?utm_medium=api&amp;utm_source=rss\"><img alt=\"Working Effectively with Legacy Code\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348627451l/44919._SX50_.jpg\" /></a><br/>",
+    "author": "Michael C. Feathers<br/>"
+  },
+  {
+    "name": "Refactoring: Improving the Design of Existing Code",
+    "image": "      <a href=\"https://www.goodreads.com/book/show/44936.Refactoring?utm_medium=api&amp;utm_source=rss\"><img alt=\"Refactoring: Improving the Design of Existing Code\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386925632l/44936._SX50_.jpg\" /></a><br/>",
+    "author": "Martin Fowler<br/>"
+  },
+  {
+    "name": "Lisp in Small Pieces",
+    "image": "      <a href=\"https://www.goodreads.com/book/show/1168500.Lisp_in_Small_Pieces?utm_medium=api&amp;utm_source=rss\"><img alt=\"Lisp in Small Pieces\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1393789348l/1168500._SX50_.jpg\" /></a><br/>",
+    "author": "Christian Queinnec<br/>"
+  },
+  {
+    "name": "Operating System Design: The Xinu Approach",
+    "image": "      <a href=\"https://www.goodreads.com/book/show/24879806-operating-system-design?utm_medium=api&amp;utm_source=rss\"><img alt=\"Operating System Design: The Xinu Approach\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1423434967l/24879806._SX50_.jpg\" /></a><br/>",
+    "author": "Douglas E. Comer<br/>"
+  },
+  {
+    "name": "Calculus",
+    "image": "      <a href=\"https://www.goodreads.com/book/show/328645.Calculus?utm_medium=api&amp;utm_source=rss\"><img alt=\"Calculus\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387735275l/328645._SX50_.jpg\" /></a><br/>",
+    "author": "Michael Spivak<br/>"
+  },
+  {
+    "name": "Euclid's Elements",
+    "image": "      <a href=\"https://www.goodreads.com/book/show/214441.Euclid_s_Elements?utm_medium=api&amp;utm_source=rss\"><img alt=\"Euclid&#39;s Elements\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386924722l/214441._SX50_.jpg\" /></a><br/>",
+    "author": "Euclid<br/>"
+  }
+]

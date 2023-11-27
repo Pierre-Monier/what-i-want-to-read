@@ -36,7 +36,13 @@
             <div class="home">
                 {% for book in site.data.books %}
                 <h2>{{book.name}}</h1>
-                    <h5>{{book.author}}</h5>
+                    {{book.description}}
+                    {{book.image}}
+                    <br>
+                    <h3>
+                        {{book.author}}
+                    </h3>
+                    <br>
                     <hr class="solid">
                     {% endfor %}
             </div>
