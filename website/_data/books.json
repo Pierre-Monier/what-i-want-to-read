@@ -1,5 +1,10 @@
 [
   {
+    "name": "Beyond The Universe: The Bill Pearl Story",
+    "image": "      <a href=\"https://www.goodreads.com/book/show/736785.Beyond_The_Universe?utm_medium=api&amp;utm_source=rss\"><img alt=\"Beyond The Universe: The Bill Pearl Story\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1177859077l/736785._SX50_.jpg\" /></a><br/>",
+    "author": "Bill Pearl<br/>"
+  },
+  {
     "name": "Antifragile: Things That Gain from Disorder",
     "image": "      <a href=\"https://www.goodreads.com/book/show/13530973-antifragile?utm_medium=api&amp;utm_source=rss\"><img alt=\"Antifragile: Things That Gain from Disorder\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352422827l/13530973._SY75_.jpg\" /></a><br/>",
     "author": "Nassim Nicholas Taleb<br/>"
@@ -118,11 +123,6 @@
     "name": "Peopleware: Productive Projects and Teams",
     "image": "      <a href=\"https://www.goodreads.com/book/show/67825.Peopleware?utm_medium=api&amp;utm_source=rss\"><img alt=\"Peopleware: Productive Projects and Teams\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386925395l/67825._SY75_.jpg\" /></a><br/>",
     "author": "Tom DeMarco<br/>"
-  },
-  {
-    "name": "Soft Skills: The Software Developer's Life Manual",
-    "image": "      <a href=\"https://www.goodreads.com/book/show/23232941-soft-skills?utm_medium=api&amp;utm_source=rss\"><img alt=\"Soft Skills: The Software Developer&#39;s Life Manual\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419180921l/23232941._SX50_.jpg\" /></a><br/>",
-    "author": "John Z. Sonmez<br/>"
   },
   {
     "name": "Working Effectively with Legacy Code",
