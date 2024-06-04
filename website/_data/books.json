@@ -1,5 +1,50 @@
 [
   {
+    "name": "The Productive Programmer",
+    "image": "      <a href=\"https://www.goodreads.com/book/show/3411606-the-productive-programmer?utm_medium=api&amp;utm_source=rss\"><img alt=\"The Productive Programmer\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328834827l/3411606._SX50_.jpg\" /></a><br/>",
+    "author": "Neal Ford<br/>"
+  },
+  {
+    "name": "The Unfair Advantage: How You Already Have What It Takes to Succeed",
+    "image": "      <a href=\"https://www.goodreads.com/book/show/50714359-the-unfair-advantage?utm_medium=api&amp;utm_source=rss\"><img alt=\"The Unfair Advantage: How You Already Have What It Takes to Succeed\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1580312960l/50714359._SY75_.jpg\" /></a><br/>",
+    "author": "Ash Ali<br/>"
+  },
+  {
+    "name": "Act Like a Leader, Think Like a Leader",
+    "image": "      <a href=\"https://www.goodreads.com/book/show/21413975-act-like-a-leader-think-like-a-leader?utm_medium=api&amp;utm_source=rss\"><img alt=\"Act Like a Leader, Think Like a Leader\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1412063201l/21413975._SY75_.jpg\" /></a><br/>",
+    "author": "Herminia Ibarra<br/>"
+  },
+  {
+    "name": "Engineering Management for the Rest of Us",
+    "image": "      <a href=\"https://www.goodreads.com/book/show/58502800-engineering-management-for-the-rest-of-us?utm_medium=api&amp;utm_source=rss\"><img alt=\"Engineering Management for the Rest of Us\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1667289282l/58502800._SX50_.jpg\" /></a><br/>",
+    "author": "Sarah Drasner<br/>"
+  },
+  {
+    "name": "Deep Work: Rules for Focused Success in a Distracted World",
+    "image": "      <a href=\"https://www.goodreads.com/book/show/25744928-deep-work?utm_medium=api&amp;utm_source=rss\"><img alt=\"Deep Work: Rules for Focused Success in a Distracted World\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1447957962l/25744928._SY75_.jpg\" /></a><br/>",
+    "author": "Cal Newport<br/>"
+  },
+  {
+    "name": "The Productivity Project: Accomplishing More by Managing Your Time, Attention, and Energy",
+    "image": "      <a href=\"https://www.goodreads.com/book/show/25733994-the-productivity-project?utm_medium=api&amp;utm_source=rss\"><img alt=\"The Productivity Project: Accomplishing More by Managing Your Time, Attention, and Energy\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444075337l/25733994._SY75_.jpg\" /></a><br/>",
+    "author": "Chris   Bailey<br/>"
+  },
+  {
+    "name": "Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential",
+    "image": "      <a href=\"https://www.goodreads.com/book/show/59616977-building-a-second-brain?utm_medium=api&amp;utm_source=rss\"><img alt=\"Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1652891488l/59616977._SY75_.jpg\" /></a><br/>",
+    "author": "Tiago Forte<br/>"
+  },
+  {
+    "name": "The Psychology of Money",
+    "image": "      <a href=\"https://www.goodreads.com/book/show/41881472-the-psychology-of-money?utm_medium=api&amp;utm_source=rss\"><img alt=\"The Psychology of Money\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1581527774l/41881472._SY75_.jpg\" /></a><br/>",
+    "author": "Morgan Housel<br/>"
+  },
+  {
+    "name": "Soft Skills: The Software Developer's Life Manual",
+    "image": "      <a href=\"https://www.goodreads.com/book/show/23232941-soft-skills?utm_medium=api&amp;utm_source=rss\"><img alt=\"Soft Skills: The Software Developer&#39;s Life Manual\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419180921l/23232941._SX50_.jpg\" /></a><br/>",
+    "author": "John Z. Sonmez<br/>"
+  },
+  {
     "name": "First, Break All the Rules: What the World's Greatest Managers Do Differently",
     "image": "      <a href=\"https://www.goodreads.com/book/show/50937.First_Break_All_the_Rules?utm_medium=api&amp;utm_source=rss\"><img alt=\"First, Break All the Rules: What the World&#39;s Greatest Managers Do Differently\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442357545l/50937._SY75_.jpg\" /></a><br/>",
     "author": "Marcus Buckingham<br/>"
@@ -10,44 +55,9 @@
     "author": "Kim Scott<br/>"
   },
   {
-    "name": "The Jack LaLanne Way to Vibrant Good Health",
-    "image": "      <a href=\"https://www.goodreads.com/book/show/36648364-the-jack-lalanne-way-to-vibrant-good-health?utm_medium=api&amp;utm_source=rss\"><img alt=\"The Jack LaLanne Way to Vibrant Good Health\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511453728l/36648364._SY75_.jpg\" /></a><br/>",
-    "author": "Jack LaLanne<br/>"
-  },
-  {
-    "name": "Beyond The Universe: The Bill Pearl Story",
-    "image": "      <a href=\"https://www.goodreads.com/book/show/736785.Beyond_The_Universe?utm_medium=api&amp;utm_source=rss\"><img alt=\"Beyond The Universe: The Bill Pearl Story\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1177859077l/736785._SX50_.jpg\" /></a><br/>",
-    "author": "Bill Pearl<br/>"
-  },
-  {
-    "name": "Antifragile: Things That Gain from Disorder",
-    "image": "      <a href=\"https://www.goodreads.com/book/show/13530973-antifragile?utm_medium=api&amp;utm_source=rss\"><img alt=\"Antifragile: Things That Gain from Disorder\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352422827l/13530973._SY75_.jpg\" /></a><br/>",
-    "author": "Nassim Nicholas Taleb<br/>"
-  },
-  {
     "name": "L'éveil des consciences - ou comment devenir un homme libre",
     "image": "      <a href=\"https://www.goodreads.com/book/show/93023766-l-veil-des-consciences---ou-comment-devenir-un-homme-libre?utm_medium=api&amp;utm_source=rss\"><img alt=\"L&#39;éveil des consciences - ou comment devenir un homme libre\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1678665773l/93023766._SX50_.jpg\" /></a><br/>",
     "author": "Frédéric Delavier<br/>"
-  },
-  {
-    "name": "Starting Strength: Basic Barbell Training",
-    "image": "      <a href=\"https://www.goodreads.com/book/show/2098799.Starting_Strength?utm_medium=api&amp;utm_source=rss\"><img alt=\"Starting Strength: Basic Barbell Training\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332738315l/2098799._SX50_.jpg\" /></a><br/>",
-    "author": "Mark Rippetoe<br/>"
-  },
-  {
-    "name": "Atomic Kotlin",
-    "image": "      <a href=\"https://www.goodreads.com/book/show/55662833-atomic-kotlin?utm_medium=api&amp;utm_source=rss\"><img alt=\"Atomic Kotlin\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1602615267l/55662833._SX50_.jpg\" /></a><br/>",
-    "author": "Bruce Eckel<br/>"
-  },
-  {
-    "name": "Dieu et l'Etat",
-    "image": "      <a href=\"https://www.goodreads.com/book/show/1809497.Dieu_et_l_Etat?utm_medium=api&amp;utm_source=rss\"><img alt=\"Dieu et l&#39;Etat\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1188653596l/1809497._SX50_.jpg\" /></a><br/>",
-    "author": "Mikhail Bakunin<br/>"
-  },
-  {
-    "name": "L'Éthique",
-    "image": "      <a href=\"https://www.goodreads.com/book/show/1849687.L_thique?utm_medium=api&amp;utm_source=rss\"><img alt=\"L&#39;Éthique\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1189181556l/1849687._SY75_.jpg\" /></a><br/>",
-    "author": "Baruch Spinoza<br/>"
   },
   {
     "name": "Design Patterns: Elements of Reusable Object-Oriented Software",
@@ -60,29 +70,14 @@
     "author": "Pierre Teilhard de Chardin<br/>"
   },
   {
-    "name": "The Need for Roots: Prelude to a Declaration of Duties towards Mankind",
-    "image": "      <a href=\"https://www.goodreads.com/book/show/141420.The_Need_for_Roots?utm_medium=api&amp;utm_source=rss\"><img alt=\"The Need for Roots: Prelude to a Declaration of Duties towards Mankind\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1396838594l/141420._SY75_.jpg\" /></a><br/>",
-    "author": "Simone Weil<br/>"
-  },
-  {
     "name": "The Organized Mind: Thinking Straight in the Age of Information Overload",
     "image": "      <a href=\"https://www.goodreads.com/book/show/18693669-the-organized-mind?utm_medium=api&amp;utm_source=rss\"><img alt=\"The Organized Mind: Thinking Straight in the Age of Information Overload\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382943888l/18693669._SX50_.jpg\" /></a><br/>",
     "author": "Daniel J. Levitin<br/>"
   },
   {
-    "name": "Zima Blue and Other Stories",
-    "image": "      <a href=\"https://www.goodreads.com/book/show/860926.Zima_Blue_and_Other_Stories?utm_medium=api&amp;utm_source=rss\"><img alt=\"Zima Blue and Other Stories\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391343221l/860926._SX50_.jpg\" /></a><br/>",
-    "author": "Alastair Reynolds<br/>"
-  },
-  {
     "name": "Le Prince de Machiavel: édition originale (French Edition)",
     "image": "      <a href=\"https://www.goodreads.com/book/show/54411076-le-prince-de-machiavel?utm_medium=api&amp;utm_source=rss\"><img alt=\"Le Prince de Machiavel: édition originale (French Edition)\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1594016539l/54411076._SX50_.jpg\" /></a><br/>",
     "author": "Niccolò Machiavelli<br/>"
-  },
-  {
-    "name": "Sapiens: A Brief History of Humankind",
-    "image": "      <a href=\"https://www.goodreads.com/book/show/23692271-sapiens?utm_medium=api&amp;utm_source=rss\"><img alt=\"Sapiens: A Brief History of Humankind\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1703329310l/23692271._SY75_.jpg\" /></a><br/>",
-    "author": "Yuval Noah Harari<br/>"
   },
   {
     "name": "Game Engine Architecture",
